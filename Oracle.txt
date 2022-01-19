@@ -1,0 +1,8 @@
+Oracle DB :orcl
+User Name : system
+Pwd :  Yogimarthand
+
+https://localhost:5500/em
+
+
+pluggable database name : orclpdb
